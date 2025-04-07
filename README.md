@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkaltoocool" alt="pushkaltoocool" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch, TensorFlow, AWS**
+- 🌱 I’m currently learning **Python, Javascript, and Machine Learning**
 
 - 👨‍💻 Check out my full portfolio [https://pushkaltoocool.github.io/Portfolio-Resume/](https://pushkaltoocool.github.io/Portfolio-Resume/)
 
